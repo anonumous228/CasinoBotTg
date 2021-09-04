@@ -1,0 +1,1 @@
+pyinstaller -F -i "<путь к иконке>" bot.py
